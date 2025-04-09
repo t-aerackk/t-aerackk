@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @t-aerackk
-- 👀 I’m interested in the Universe
+- 👀 I’m student of Life
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on learning projects
 - 📫 Reach me via Aenjaal@gmail.com
